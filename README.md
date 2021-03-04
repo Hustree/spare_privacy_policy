@@ -55,6 +55,46 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+**Spare App Terms and Conditions**
+
+The user agrees to receive spare change in the form of credits called “Spare Credits”.
+Spare credit is not yet an e-money and cannot be used for cash out purposes.
+Spare credits can be used to purchase with participating merchants only.
+Merchants are identified in the “Stores” feature in the application.
+Spare credits do not expire.
+ 
+We collect only necessary data which includes:
+Phone number, email, name, birth date.
+We collect data to tie up purposes that will justify collection of data and for market research.
+ 
+Spare users shall agree to input correct Personal Information
+ 
+You can't impersonate others or provide inaccurate information.
+You don't have to disclose your identity on Instagram, but you must provide us with accurate and up to date information (including registration information), which may include providing personal data. Also, you may not impersonate someone or something you aren't, and you can't create an account for someone else unless you have their express permission.
+ 
+You can’t share your MPIN.
+ 
+You can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose.
+ 
+You can't violate (or help or encourage others to violate) these Terms or our policies.
+ 
+You can't do anything to interfere with or impair the intended operation of the Service.
+This includes misusing any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
+ 
+You can't attempt to create accounts or access or collect information in unauthorized ways.
+This includes creating accounts or collecting information in an automated way without our express permission.
+You can’t sell, license, or purchase any account or data obtained from us or our Service.
+This includes attempts to buy, sell, or transfer any aspect of your account (including your username); solicit, collect, or use login credentials or badges of other users; or request or collect Instagram usernames, passwords, or misappropriate access tokens.
+You can’t modify, translate, create derivative works of, or reverse engineer our products or their components.
+You can't use a domain name or URL in your username without our prior written consent.
+Disclaimer
+We are not liable to claims of the transaction with the merchant.
+ 
+We are receiving cash amounts as the agents of the merchant and Spare Application
+Money flows through us to the merchant holding that cash on their behalf
+ 
+Our service charge is 3% convenience fee
+ 
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at technologyspare@gmail.com.
